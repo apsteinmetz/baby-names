@@ -1,3 +1,6 @@
+![Madison!](data/splash.jpg) What impact di the 1984 movie "Splash" have
+on baby names?
+
 Load National Social Security Database. source: Kaggle
 
     library(tidyverse)
