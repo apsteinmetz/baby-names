@@ -28,6 +28,7 @@ Load National Social Security Database. source: Kaggle
       geom_vline(xintercept = 1984) +
       scale_y_continuous(labels = scales::percent) +
       labs(title='Proportion of Babies Named "Madison" by Gender',
+           caption = "Source: Social Security Administration via kaggle.com",
            y="Proportion",
            subtitle = 'Before and After "Splash" in 1984')
 
